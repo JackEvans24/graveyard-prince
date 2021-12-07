@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="./docs/banner.gif" alt="Graveyard Prince banner" />
+    <img src="https://github.com/JackEvans24/graveyard-prince/blob/master/Docs/banner.gif?raw=true" alt="Graveyard Prince banner" />
 </div>
 
 <br />
