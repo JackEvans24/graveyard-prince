@@ -1,12 +1,6 @@
-<div style="text-align: center;">
-    <img src="https://github.com/JackEvans24/graveyard-prince/blob/master/Docs/banner.gif?raw=true" alt="Graveyard Prince banner" />
-</div>
+![Graveyard Prince title banner](./Docs/banner.gif "Graveyard Prince title banner")
 
-<br />
-
-## [Play the game here!](https://jevansmassive.itch.io/graveyard-prince)
-
-<hr />
+### [Play the game here!](https://jevansmassive.itch.io/graveyard-prince)
 
 ## A short platformer about making a friend
 
